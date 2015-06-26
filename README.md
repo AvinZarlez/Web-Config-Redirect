@@ -1,2 +1,2 @@
 # Web-Config-Redirect
-Redirects Windows websites to www.Zarlez.com, my website.
+Redirects Windows websites to www.TobiahZ.com, my website.
